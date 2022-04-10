@@ -1,0 +1,9 @@
+{
+    "token": "OTYyMjI1MzczOTk3ODI2MDc5.YlEcNg.RgjO5Q80F5uvqjr3Br6t76gAn2I", 
+    "proxy": null, 
+    "playerprefs": {
+        "1": "tw.sonet.princessconnect.v2.playerprefs.xml"
+    },
+    "binds_file": "binds.json" ,
+    "max_enemy": -1 
+}
